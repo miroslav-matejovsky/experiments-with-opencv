@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["cmap", "dtype", "imread", "imshow", "venv", "virtualenv"]
+  "cSpell.words": [
+    "cmap",
+    "dtype",
+    "imread",
+    "imshow",
+    "OTSU",
+    "venv",
+    "virtualenv"
+  ]
 }
